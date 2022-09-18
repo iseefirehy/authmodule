@@ -23,6 +23,3 @@ API Name|Url|Method Type|Description
 **Add Role To User**|POST|/api/authservice/add/role|Assign certain role to the user
 **Delete Role**|DELETE|/api/authservice/delete/role|Remove the role in the system
 **Create Role**|POST|/api/authservice/create/role|Create the role in the system
-
-4.Postman Collection
-Please impoort this for collection.[Postman API](https://www.getpostman.com/collections/5b6c09477d6d37c75617)
